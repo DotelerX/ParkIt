@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lXSrJK3uaL4uOw6YAyQPDc9CRhwzscLPfmIuNJbOE2LtUxTn9B+PyK75tMD23YyJtR0L8oTW9/EtMvoSlWpJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathan\\source\\repos\\ParkIt\\ParkIt.Prototype\\ParkIt.Prototype.Sensor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

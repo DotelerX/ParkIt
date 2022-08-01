@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkIt.Prototype.Sensor", "ParkIt.Prototype\ParkIt.Prototype.Sensor.csproj", "{1C0BEF15-8C8B-4316-B80E-236E5935113F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkIt.Prototype.EdgeNode", "ParkIt.Prototype.EdgeNode\ParkIt.Prototype.EdgeNode.csproj", "{69FEFB68-47CD-49D7-BDA6-D9F22654FB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkIt.Prototype.Common", "ParkIt.Prototype.Common\ParkIt.Prototype.Common.csproj", "{6C268684-5110-442F-A0C4-964CFAFBAE1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0BEF15-8C8B-4316-B80E-236E5935113F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0BEF15-8C8B-4316-B80E-236E5935113F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0BEF15-8C8B-4316-B80E-236E5935113F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0BEF15-8C8B-4316-B80E-236E5935113F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FEFB68-47CD-49D7-BDA6-D9F22654FB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FEFB68-47CD-49D7-BDA6-D9F22654FB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FEFB68-47CD-49D7-BDA6-D9F22654FB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FEFB68-47CD-49D7-BDA6-D9F22654FB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C268684-5110-442F-A0C4-964CFAFBAE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C268684-5110-442F-A0C4-964CFAFBAE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C268684-5110-442F-A0C4-964CFAFBAE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C268684-5110-442F-A0C4-964CFAFBAE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3AA1F54-04C9-4C86-88A3-924BE7306C4E}
+	EndGlobalSection
+EndGlobal

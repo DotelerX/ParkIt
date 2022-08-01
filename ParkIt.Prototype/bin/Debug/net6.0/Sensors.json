@@ -1,0 +1,77 @@
+[
+  {
+    "Key": "203b78a2-57b6-45f7-b193-28b782e8baad",
+    "Section": "Level 1",
+    "Sensor Type": "Ground"
+  },
+  {
+    "Key": "59c9bb46-3f25-4a69-92ea-57ee7b554157",
+    "Section": "Level 1",
+    "Sensor Type": "Overhead"
+  },
+  {
+    "Key": "4630de5c-ae80-4818-a842-6efd553e4835",
+    "Section": "Level 2",
+    "Sensor Type": "Ground"
+  },
+  {
+    "Key": "18471906-b73f-4917-bd9e-0219fd96ad70",
+    "Section": "Level 1",
+    "Sensor Type": "Overhead"
+  },
+  {
+    "Key": "afe75a14-454c-436c-8d0f-6d8787b831f2",
+    "Section": "Level 2",
+    "Sensor Type": "Ground"
+  },
+  {
+    "Key": "b5f80278-57c6-45f2-a809-1fcf2a6ed912",
+    "Section": "Level 2",
+    "Sensor Type": "Ground"
+  },
+  {
+    "Key": "82f288ae-c48b-4746-b2ba-c2347a584b28",
+    "Section": "Level 1",
+    "SensorType": "Overhead"
+  },
+  {
+    "Key": "4dc82726-9e1d-4099-8dde-84b9a6e98f66",
+    "Section": "Basement",
+    "SensorType": "Ground"
+  },
+  {
+    "Key": "47f077c0-06af-4ddc-b364-26dc538c8051",
+    "Section": "Basement",
+    "SensorType": "Ground"
+  },
+  {
+    "Key": "2bd3b9b5-448b-4ba2-bf9b-f07506bc33d6",
+    "Section": "Level 1",
+    "SensorType": "Overhead"
+  },
+  {
+    "Key": "cd50a775-b655-484e-b243-5bf05c47eacd",
+    "Section": "Level 2",
+    "Sensor Type": "Overhead"
+  },
+  {
+    "Key": "c3a53d09-047e-42d7-b9fe-91b27a27257c",
+    "Section": "Basement",
+    "SensorType": "Ground"
+  },
+  {
+    "Key": "fb7d2e74-b7df-4716-9d7b-8ac5982237d5",
+    "Section": "Level 2",
+    "SensorType": "Overhead"
+  },
+  {
+    "Key": "892419bf-fb2b-4717-9e20-054f218c25dd",
+    "Section": "Level 2",
+    "SensorType": "Overhead"
+  },
+  {
+    "Key": "92a51826-a69c-4573-a69e-711d1627521c",
+    "Section": "Basement",
+    "SensorType": "Ground"
+  }
+]

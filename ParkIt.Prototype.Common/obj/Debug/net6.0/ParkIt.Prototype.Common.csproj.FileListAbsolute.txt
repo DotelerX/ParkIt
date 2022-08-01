@@ -1,0 +1,13 @@
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\bin\Debug\net6.0\ParkIt.Prototype.Common.deps.json
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\bin\Debug\net6.0\ParkIt.Prototype.Common.dll
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\bin\Debug\net6.0\ParkIt.Prototype.Common.pdb
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.csproj.AssemblyReference.cache
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.dll
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\refint\ParkIt.Prototype.Common.dll
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ParkIt.Prototype.Common.pdb
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\obj\Debug\net6.0\ref\ParkIt.Prototype.Common.dll
+C:\Users\Nathan\source\repos\ParkIt\ParkIt.Prototype.Common\bin\Debug\net6.0\Sensors.json
